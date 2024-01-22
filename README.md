@@ -9,6 +9,9 @@ All the things for certain! I'm trying to learn more about data visualization to
 
 # Portfolio
 Here is where all my work is displayed and you can scan through them. As my skills improve and new assignments are completed, I will regularly update the following projects.
+
+[dataviz](https://jczy17.github.io/portfolio/dataviz.html)
+
 # Data visualization critiques
 
 # Data visualization workshops
