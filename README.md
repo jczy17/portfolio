@@ -14,6 +14,6 @@ Here is where all my work is displayed and you can scan through them. As my skil
 [Check out my data visualization project!](dataviz1.md)
 
 # Data visualization workshops
-
+[Assignment: Visualizing government debt using Tableau](dataviz2.md)
 # Final project
 [Check out my final project!](finalproject.md)
