@@ -37,4 +37,8 @@ Graph 2: Map
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+# Some written summary
+When we consider about debt-to-GDP ratios by country, a choropleth map would be effective for geographic distribution. When it comes to trends over time, a line chart or an area chart can show how the ratio has evolved. 
+
+Usage of color: use a color scale that intuitively represents the data: for instance, darker shades could indicate higher debt-to-GDP ratios, which are often perceived as more severe or concerning (color convention) .
 [Take me back to the home page!](README.md)
