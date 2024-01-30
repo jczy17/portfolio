@@ -38,7 +38,7 @@ Graph 2: Map
 </script>
 
 # Some written summary
-When we consider about debt-to-GDP ratios by country, a choropleth map would be effective for geographic distribution (I change the data type of location into the geographic role of Country/Region to create the map) . When it comes to trends over time, a line chart or an area chart can show how the ratio has evolved. And through the boxplot we can immediately find the max, min, median, Q1 and Q4 of each year's data as well as some outliers (eg, JPN) 
+When we consider about debt-to-GDP ratios by country, a choropleth map would be effective for geographic distribution (I change the data type of location into the geographic role of Country/Region to create the map) . In order to simply visualize the map, I have selected only one of the years （Year 2018） of data for the plot When it comes to trends over time, a line chart or an area chart can show how the ratio has evolved. And through the boxplot we can immediately find the max, min, median, Q1 and Q4 of each year's data as well as some outliers (eg, JPN) 
 
 Usage of color: I attempt to use a color scale that intuitively represents the data: for instance, darker shades could indicate higher debt-to-GDP ratios, which are often perceived as more severe or concerning (color convention) .The map uses a gradient of blue to indicate the severity of the debt ratio, with darker tones marking higher ratios. The line chart shows the trend over time, with some selected country represented by a unique color but they are all relatively red or yellow. The consistent color make the visual presentation more coherent and help viewers quickly understand the layout and content of the chart.
 
