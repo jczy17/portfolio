@@ -38,7 +38,10 @@ Graph 2: Map
 </script>
 
 # Some written summary
-When we consider about debt-to-GDP ratios by country, a choropleth map would be effective for geographic distribution. When it comes to trends over time, a line chart or an area chart can show how the ratio has evolved. 
+When we consider about debt-to-GDP ratios by country, a choropleth map would be effective for geographic distribution (I change the data type of location into the geographic role of Country/Region to create the map) . When it comes to trends over time, a line chart or an area chart can show how the ratio has evolved. And through the boxplot we can immediately find the max, min, median, Q1 and Q4 of each year's data as well as some outliers (eg, JPN) 
 
-Usage of color: use a color scale that intuitively represents the data: for instance, darker shades could indicate higher debt-to-GDP ratios, which are often perceived as more severe or concerning (color convention) .
+Usage of color: I attempt to use a color scale that intuitively represents the data: for instance, darker shades could indicate higher debt-to-GDP ratios, which are often perceived as more severe or concerning (color convention) .The map uses a gradient of blue to indicate the severity of the debt ratio, with darker tones marking higher ratios. The line chart shows the trend over time, with some selected country represented by a unique color but they are all relatively red or yellow. The consistent color make the visual presentation more coherent and help viewers quickly understand the layout and content of the chart.
+
+Clarity: Because hovering over a country on the map or a point on the line chart to see specific ratio values, I don't need to label all of the values on the graph. I intentionally picked and colored several countries as representatives to show the overall trend of the ratio developing overtime and leave others with gray. Using shades of gray and grid lines make it easier for viewers to process the information being presented. As for map, in addition to using consistent blue, I leave the rest of the continent blank colored to make the important graph stand out.
+
 [Take me back to the home page!](README.md)
