@@ -1,7 +1,9 @@
 # Assignment 3 & 4
 # Step 1: Find a data visualization
 Original Data Visualization
+
 URL: https://www.theguardian.com/football/ng-interactive/2019/jun/28/revealed-the-731003-gender-pay-gap-in-us-world-cup-bonuses
+
 Cited from _The Guardian_ (from US Soccer)
 
 # Step 2: Critique the data visualization
@@ -21,5 +23,10 @@ Cited from _The Guardian_ (from US Soccer)
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+Here is the link for me to learn create waterfall chart
+
+URL: https://zhuanlan.zhihu.com/p/265807830
+
 
 [Take me back to the home page!](README.md)
