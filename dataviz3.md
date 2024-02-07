@@ -21,6 +21,56 @@ From my perspective, the evaluation of the data visualization rates 85 out of 10
 As I thought about changing the type of visualization, I chose the bar graph to illustrate the scale of potential pay in each phase of the World Cup. Instead of using yellow and blue, I selected the red and blue colors to represent women and men (a kind of color tradition) and I think that the contrast between red and blue is stronger which makes the difference more vivid. Also, I applied the grey color to the grid and removed those label texts beside the graph which will be distracting. Of course, there will be text explaining the data. Since it is used in the journal, if it's used to raise awareness, a simpler, more striking design might be more effective.
 
 # Step 4: Test the solution
+Feedback 1:
+Feedback from a 25-year-old student
+
+Question: What do you think this is?
+Answer: It looks like a chart comparing the pay gap between the men's and women's US national teams at different competition stages.
+
+Question: Can you describe what this chart is telling you?
+Answer: The chart seems to show that women are generally paid less than men at different stages of competition. 
+
+Question: What is your initial reaction to this chart?
+Answer: It's quite striking. The differences between the bars make the pay gap visually impactful.
+
+Question: Is there anything that you find surprising or confusing?
+Answer: I'm a bit confused by the labels at the bottom; they're not very clear. I'm not sure what "victory tour" refers to. Also, the chart doesn't indicate specific figures, which makes it difficult to grasp the exact disparities. There are no numbers, so I'm not sure how big the differences actually are.
+
+Question: Who do you think the intended audience for this chart is?
+Answer: I guess it might be gender equality advocates.
+
+Question: Is there anything you would change or do differently?
+Answer: I would make the labels clearer and add specific figures. I might also add some explanatory text to the chart to explain what these figures represent and why there is such a disparity.
+
+Question: How would you use the information presented in this chart?
+Answer: I'd use it to advocate for equal pay in sports, maybe in a presentation or a social media post.
+
+Feedback 2:
+Feedback from a 48-year-old adult
+
+Question: Can you tell me what you think this is?
+Answer: It's a bar chart about gender pay differences.
+
+Question: Can you describe what this tells you?
+Answer: It suggests that men earn more than women in US National Sports team.
+
+Question: Is there anything that surprises or confuses you?
+Answer: Yes, the chart uses colors to differentiate men from women, but the differences in the heights of the bars are so stark, I'm curious if this reflects the actual pay gap. Also, I don't quite understand the notes written in the bottom left corner.
+
+Question: Who do you think the chart's intended audience is?
+Answer: Possibly gender equality activists or sports management organizations, and also those interested in the sports industry.
+
+Question: Is there anything you would change or do differently?
+Answer: I would try to provide a clear title and description to make the chart look more professional. I also think it should include some background information so readers understand why there's such a pay gap.
+
+Question: Is it easy to understand the scale of the chart?
+Answer: The lack of numerical values makes it tough to grasp the exact scale of the pay differences.
+
+Question: What do you think the colors represent in this chart at first glance?
+Answer: I'm guessing the colors represent the gender – it's a common way to differentiate, but confirmation would be good.
+
+Question: If you were to explain this chart to someone else, how would you describe it?
+Answer: It's a visual representation of the pay inequality between male and female athletes on US national teams.
 
 # Step 5: Build my solution
 
