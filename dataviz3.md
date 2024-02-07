@@ -2,7 +2,7 @@
 # Step 1
 Original Data Visualization
 URL: https://www.theguardian.com/football/ng-interactive/2019/jun/28/revealed-the-731003-gender-pay-gap-in-us-world-cup-bonuses
-Cited from _The Guardian_The Guardian (from US soccer)
+Cited from The Guardian (from US Soccer)
 
 # Step 2
 ![Image of Data Visualization Sketch](pic1.jpg)
