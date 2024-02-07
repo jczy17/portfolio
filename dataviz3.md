@@ -61,7 +61,7 @@ Question: Who do you think the chart's intended audience is?
 Answer: Possibly gender equality activists or sports management organizations, and also those interested in the sports industry.
 
 Question: Is there anything you would change or do differently?
-Answer: I would try to provide a clear title and description to make the chart look more professional. I also think it should include some background information so readers understand why there's such a pay gap.
+Answer: I would try to provide a clear title and description to make the chart look more professional. I also think it should include some background information so readers understand why there's such a pay gap. Maybe you can overlap the histograms so that the difference can be more vivid?
 
 Question: Is it easy to understand the scale of the chart?
 Answer: The lack of numerical values makes it tough to grasp the exact scale of the pay differences.
@@ -74,6 +74,24 @@ Answer: It's a visual representation of the pay inequality between male and fema
 
 # Step 5: Build my solution
 
+Clarity: Both participants pointed out issues with clarity, particularly around the labels and the absence of specific figures. This indicates a need for more precise data presentation and clearer labeling to enhance understanding.
+
+Understanding the Scale: There was a consensus on the difficulty of grasping the scale of pay differences due to the lack of numerical values. 
+
+Target Audience: Both see the visualization as useful for gender equality advocates, suggesting that the message of the pay gap is clear but could be refined to better serve its intended audience.
+
+Need for Additional Context: Each participant expressed a desire for more background information or explanatory text to understand the context behind the data better.
+
+Something Unique: The adult suggested that to display the difference not only in comparing with the side-by-side plot.
+
+Learning from the feedback: Typically I would need clear labels, specific figures, and a legend for color representation. Use a brief introductory text or annotations within the visualization to explain the pay gap, making the data more accessible and the visualization more informative. The final redesign might need to consider another type of visualization to help viewers understand the magnitude of the pay differences.
+
+Since then, I searched online about how to show the difference in an accessible way. I found out that "A waterfall chart is a graphical tool primarily used to show the collective influence of successive positive and negative variables on an initial starting point. In essence, it furnishes a well-structured and lucid manner of depicting the gradual transitions, emphasizing the intricate process through which diverse factors contribute to a final consequence, along with their net impact." While the bar chart may not possess the nuanced comparison capabilities of a waterfall chart, it excels in conveying data lucidly and uncomplicatedly. Bar charts proficiently represent both positive and negative values, endowing them with versatility suitable for a spectrum of data presentation requirements. 
+
+Here attaches the link for me to learn to create a waterfall chart
+
+URL: https://zhuanlan.zhihu.com/p/265807830
+
 <div class='tableauPlaceholder' id='viz1707291083609' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34_17072850284710&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment34_17072850284710&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34_17072850284710&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1707291083609');
@@ -83,9 +101,15 @@ Answer: It's a visual representation of the pay inequality between male and fema
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-Here is the link for me to learn create waterfall chart
+Based on the user feedback provided, several changes were implemented in the redesigned data visualization. 
+1. Specific Figures Added: The redesigned visualization now includes specific numerical values on the bars themselves, addressing the issue of clarity and providing an immediate understanding of the exact disparities in pay.
 
-URL: https://zhuanlan.zhihu.com/p/265807830
+2. Clear Title and Labels: The chart features clear and professional labeling, with a straightforward title "The Gender Pay Difference in US World Cup Bonuses" and a subtitle that explains the context "US Men's national team pay potential is $850K more than Women's."
 
+3. Contextual Information: A note at the bottom cites the data source, and the subtitle provides context for the visualization, helping viewers grasp the significance of the data.
+
+4. Change in the type of visualization: The waterfall chart explicitly shows the pay gap in different phases, highlighting the gender pay gap in a very direct and impactful way.
+
+The visualization has been redesigned to be more professional, with a clean and uncluttered layout that allows for the information to be quickly and accurately absorbed by the viewer. It clearly shows the disparity in potential earnings between the US men's and women's national teams across various stages of the World Cup. By displaying the data in a side-by-side format for each gender, the visualization allows for direct comparison between men's and women's earnings. By choosing a bar graph displayed in the waterfall, the differences in earnings are made visually distinct, allowing for immediate comparison. The choice of this type of visualization was deliberate to emphasize the scale of the pay gap and to make the disparities in each phase of the competition evident. The red and blue colors can more intuitively reflect the specific differences in pay between men and women.
 
 [Take me back to the home page!](README.md)
