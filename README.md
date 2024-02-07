@@ -15,6 +15,7 @@ Here is where all my work is displayed and you can scan through them. As my skil
 
 # Data visualization workshops
 [Assignment: Visualizing government debt using Tableau](dataviz2.md)
+
 [Assignment 3 & 4: Critique by Design with Tableau (MakeoverMonday)](dataviz3.md)
 
 # Final project
