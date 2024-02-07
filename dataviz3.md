@@ -1,12 +1,15 @@
 # Assignment 3 & 4
 # Step 1: Find a data visualization
-Original Data Visualization
+Original Data Visualization: The Gender Pay Gap in US World Cup Bonuses
 
 URL: https://www.theguardian.com/football/ng-interactive/2019/jun/28/revealed-the-731003-gender-pay-gap-in-us-world-cup-bonuses
 
 Cited from _The Guardian_ (from US Soccer)
 
+I chose this visualization initially because I am a big soccer fan and the World Cup is a high-profile event that garners significant international attention. It combines my passion for the sport with an advocacy for gender equality, bringing attention to an issue that contemporary people care about deeply. Highlighting the gender pay gap could spark important conversations among fellow fans and beyond.
+
 # Step 2: Critique the data visualization
+
 
 # Step 3: sketch out a solution
 ![Image of Data Visualization Sketch](pic1.jpg)
