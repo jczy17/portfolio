@@ -1,8 +1,8 @@
 # Assignment 3 & 4
 # Step 1
 Original Data Visualization
-https://www.theguardian.com/football/ng-interactive/2019/jun/28/revealed-the-731003-gender-pay-gap-in-us-world-cup-bonuses
-
+URL: https://www.theguardian.com/football/ng-interactive/2019/jun/28/revealed-the-731003-gender-pay-gap-in-us-world-cup-bonuses
+Cited from _The Guardian_
 ![Image of Data Visualization Sketch](pic1.jpg)
 
 
