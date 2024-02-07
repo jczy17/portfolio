@@ -18,6 +18,8 @@ From my perspective, the evaluation of the data visualization rates 85 out of 10
 # Step 3: sketch out a solution
 ![Image of Data Visualization Sketch](pic1.jpg)
 
+As I thought about changing the type of visualization, I chose the bar graph to illustrate the scale of potential pay in each phase of the World Cup. Instead of using yellow and blue, I selected the red and blue colors to represent women and men (a kind of color tradition) and I think that the contrast between red and blue is stronger which makes the difference more vivid. Also, I applied the grey color to the grid and removed those label texts beside the graph which will be distracting. Of course, there will be text explaining the data. Since it is used in the journal, if it's used to raise awareness, a simpler, more striking design might be more effective.
+
 # Step 4: Test the solution
 
 # Step 5: Build my solution
