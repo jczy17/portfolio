@@ -24,9 +24,12 @@ The third part is the current situation of graduate employment: Employment Trend
 
 Data
 
-Employment report: Heinz College official website:www.heinz.cmu.edu/
-search and cite from the link: https://www.heinz.cmu.edu/search?q=employment-reports&client=heinz_frontend&output=xml_no_dtd&site=heinz-frontdoor&proxystylesheet=heinz_frontend&sort=date%3AD%3AL%3Ad1&start=30
+Employment report: Heinz College official website: www.heinz.cmu.edu/
+
+Search and cite from the link: https://www.heinz.cmu.edu/search?q=employment-reports&client=heinz_frontend&output=xml_no_dtd&site=heinz-frontdoor&proxystylesheet=heinz_frontend&sort=date%3AD%3AL%3Ad1&start=30
+
 AI development: https://ourworldindata.org/artificial-intelligence
+
 AI index report: https://drive.google.com/drive/folders/1ma9WZJzKreS8f2It1rMy_KkkbX6XwDOK
 
 
