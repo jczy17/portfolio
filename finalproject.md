@@ -25,7 +25,7 @@ The third part is the current situation of graduate employment: Employment Trend
 Ending with some critical observations and call-to-action.
 
 Initial Sketches
-![Image of Data Visualization Sketch](pic1.jpg)
+![Image of Data Visualization Sketch](img2.jpg)
 
 Data
 
