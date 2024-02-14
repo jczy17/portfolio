@@ -20,11 +20,12 @@ The first part would be the "Background and Context", including Pre-Pandemic Emp
 
 The second part might show some changes over the past few years, such as Technological Developments: Examine the role of automation and artificial intelligence in reshaping the demand for labor, emphasizing the increasing need for highly skilled and educated workers. Economic Recession or the increasing desire for earning money among people. Typically illustrated with the line and bar graph.
 
-The third part is the current situation of graduate employment: Employment Trends Over Time: Present a visualization of how post-graduate employment positions and locations have changed over time. Geographical Distribution of Jobs: Explore the shift with the interactive map in employment opportunities towards metropolitan areas, highlighting disparities in wage levels and job availability. The map would also involve the first part data to make a comparison.
+The third part is the current situation of graduate employment: Employment Trends Over Time: Present a visualization of how post-graduate employment positions and locations have changed over time. Geographical Distribution of Jobs: Explore the shift with the interactive map in employment opportunities towards metropolitan areas, highlighting disparities in wage levels and job availability. The map would also involve the first part data to make a comparison. Other graphs would be consistent with the first part. And there will be a list of employers to show the most-likely hired employers and alumni network.
 
 Ending with some critical observations and call-to-action.
 
 Initial Sketches
+![Image of Data Visualization Sketch](pic1.jpg)
 
 Data
 
@@ -37,5 +38,9 @@ AI development: https://ourworldindata.org/artificial-intelligence
 
 AI index report: https://drive.google.com/drive/folders/1ma9WZJzKreS8f2It1rMy_KkkbX6XwDOK
 
+Method and medium
 
+Tableau: For complex data analysis and interactive visualizations, Tableau is a powerful tool, especially effective for dealing with maps and complex datasets.
+
+Shorthand: For a final demonstration, use Shorthand to weave bar charts, pie charts, and maps into the narrative. With a combination of text, images, and visualizations to tell my story.
 [Take me back to the home page!](README.md)
