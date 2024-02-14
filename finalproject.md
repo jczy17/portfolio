@@ -16,11 +16,15 @@ This final project aims to explore the evolving landscape of post-graduate emplo
 
 At the very beginning, we will have some plots showing job-seeking and the outcome for Heinz graduates.
 
-The first part would be the "Background and Context", including Pre-Pandemic Employment Landscape: Outline the state of post-graduate employment before the economic downturn, highlighting diversity in job positions and locations, as well as the overall high employment rate.
+The first part would be the "Background and Context", including Pre-Pandemic Employment Landscape: Outline the state of post-graduate employment before the economic downturn, highlighting diversity in job positions and locations, as well as the overall high employment rate. Mainly use bar/pie graph and sometimes might use some econ like one dollar to do color coding represents the money earned.
 
-The second part might show some changes over the past few years, such as Technological Developments: Examine the role of automation and artificial intelligence in reshaping the demand for labor, emphasizing the increasing need for highly skilled and educated workers. Economic Recession or the increasing desire for earning money among people.
+The second part might show some changes over the past few years, such as Technological Developments: Examine the role of automation and artificial intelligence in reshaping the demand for labor, emphasizing the increasing need for highly skilled and educated workers. Economic Recession or the increasing desire for earning money among people. Typically illustrated with the line and bar graph.
 
-The third part is the current situation of graduate employment: Employment Trends Over Time: Present a visualization of how post-graduate employment positions and locations have changed over time. Geographical Distribution of Jobs: Explore the shift with the interactive map in employment opportunities towards metropolitan areas, highlighting disparities in wage levels and job availability.
+The third part is the current situation of graduate employment: Employment Trends Over Time: Present a visualization of how post-graduate employment positions and locations have changed over time. Geographical Distribution of Jobs: Explore the shift with the interactive map in employment opportunities towards metropolitan areas, highlighting disparities in wage levels and job availability. The map would also involve the first part data to make a comparison.
+
+Ending with some critical observations and call-to-action.
+
+Initial Sketches
 
 Data
 
