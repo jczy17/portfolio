@@ -53,7 +53,7 @@ and see if it a different design works better. Additionally, one of my peers tol
 
 | Questions                                                                            | Interview 1 (briefly describe) | Interview 2                      | Interview 3                      |
 |--------------------------------------------------------------------------------------|--------------------------------|----------------------------------|----------------------------------|
-| Who do you think the audience is?                                                    | Yinzers! (Realized Late)       | People in Pitt.                  | Younger people                   |
+| Who do you think the audience is?                                                    |                                |                                  | Younger people                   |
 |                                                                                      |                                |                                  |                                  |
 | Does the ordering of the presentation make sense to you?                             | Broad to specific, good        | Yes                              | Use graph for outdoor health +   |
 |                                                                                      |                                |                                  |                                  |
