@@ -1,6 +1,6 @@
 # Final Project
 
-Here's my final project page. Check it out!
+Here's my final project page part I. Check it out!
 
 # Part I
 
