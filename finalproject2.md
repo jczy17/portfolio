@@ -19,9 +19,6 @@ that the younger population cares about and still tie it back to a more general 
 there is an abundance of stuff to outdoors here and there was nice data on that. <br>
 So the audience is young people in Pittsburgh. <br>
 
-Luckily, because I am a young person in Pittsburgh, I had plenty of people in this demographic to interview. I interviewed 2 males/ 1 female, and I did interview one person
-who is not from Pittsburgh, just to get an outsider perspective from someone who doesn't have any Pittsburgh bias in either direction. 
-
 ## Interview script
 Goals: <br>
 I intended to do a few things: <br>
@@ -45,7 +42,6 @@ The questions I asked:<br>
 This question aligns with all the questions, primarily 3 and 4. <br>
 
 
-Text here!
 
 ## Interview findings
 
