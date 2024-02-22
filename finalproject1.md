@@ -50,8 +50,4 @@ Method and medium
 
 Tableau: For complex data analysis and interactive visualizations, Tableau is a powerful tool, especially effective for dealing with maps and complex datasets.
 
-
-
-# Part II
-(https://preview.shorthand.com/idv7CFL4cXPTbaB0)
 [Take me back to the home page!](README.md)
