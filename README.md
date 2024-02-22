@@ -19,4 +19,6 @@ Here is where all my work is displayed and you can scan through them. As my skil
 [Assignment 3 & 4: Critique by Design with Tableau (MakeoverMonday)](dataviz3.md)
 
 # Final project
-[Check out my final project!](finalproject.md)
+[Check out my final project part I!](finalproject1.md)
+[Check out my final project part II!](finalproject2.md)
+[Check out my final project part III!](finalproject3.md)
