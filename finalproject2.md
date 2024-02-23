@@ -47,7 +47,7 @@ When designing visualizations about the employment outcomes of Heinz College gra
 |                                                                                      |                                |                                  |                                  |
 |Did this visualization inspire you to take any specific action or change your perspective on job seeking?|  Yes, it made me more aware of the industries I should be focusing on     |    Not really, I’m already quite proactive in my job search, but it was affirming.   | Absolutely! I realized I need to start utilizing our alumni network more effectively in my job search.  |
 |                                                                                      |                                |                                  |                                  |
-| Is there anything additional about the subject you would find beneficial to include? |  Noe really like the scrolling method | Interactive elements for more details on job roles or industries would be beneficial  | Specified colors and the call-to-action     |
+| Is there anything additional about the subject you would find beneficial to include? |  Not really like the scrolling method | Interactive elements for more details on job roles or industries would be beneficial  | Specified colors and the call-to-action     |
 
 
 # Identified changes for Part III
