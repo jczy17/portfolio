@@ -35,15 +35,13 @@ When designing visualizations about the employment outcomes of Heinz College gra
 ## Interview findings
 
 
-
-
 | Questions                                                                            | Interview 1  (around 25 years old)   | Interview 2   (mid-50s)    | Interview 3                      |
 |--------------------------------------------------------------------------------------|--------------------------------|----------------------------------|----------------------------------|
 |After reviewing the visualization, who do you think is the intended audience?         | It seems targeted at college students, given the focus on job prospects       |    Maybe young adults like you       | For students or schools, I suppose. It addresses our immediate concerns                 |
 |                                                                                      |                                |                                  |                                  |
 |What do you think about the organization and the flow?                         | The flow was good, starting with broad trends and narrowing down   | The flow is mostly clear, but some transitions in the middle were confusing.    |  Simplifying some sections could improve the flow. Not that cluttering  |
 |                                                                                      |                                |                                  |                                  |
-| How does the color scheme make you feel?                                             |   The vibrant colors caught my attention and were appealling   | I loved the colors! They’re fresh and make the content stand out.      | Some colors were inconsistent    |
+| How does the color scheme make you feel?                                             |   The vibrant colors caught my attention and were appealing   | I loved the colors! They’re fresh and make the content stand out.      | Some colors were inconsistent    |
 |                                                                                      |                                |                                  |                                  |
 |Did this visualization inspire you to take any specific action or change your perspective on job seeking?|  Yes, it made me more aware of the industries I should be focusing on     |    Not really, I’m already quite proactive in my job search, but it was affirming.   | Absolutely! I realized I need to start utilizing our alumni network more effectively in my job search.  |
 |                                                                                      |                                |                                  |                                  |
@@ -52,15 +50,12 @@ When designing visualizations about the employment outcomes of Heinz College gra
 
 # Identified changes for Part III
 
-A couple non-feedback related changes that are necessary: Finish the first graph on time spent outdoors. I added the outdoors aspect after grading feedback from Part I and the data source was incomplete. I
-found a really awesome data source over several decades and demographics but I had to request access. If I do not get access within the first few days, I will use another source. The data on the graph currently is 
-accurate data from a small snippet of the report but is obviously very barebones. 
-Additionally, I need to change all of the images to html link's from Flourish. <br>
+First and foremost, I'm gonna complete the text for the narrative part and redesign the Shorthand slides.
 
 
 | Research Synthesis                          | Anticipated Changes for Part III                                                                                                                                                                                                                                                                                                           |
 |---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Audience identified late                    | Identify the audience early in the presentation somehow... Perhaps the first background image will be someone outside in Pittsburgh.                                                                                                            |                                                                                                                                     |                                                                                        |
-| Color scheme worked, but inconsistent       |  I am going to keep the same color scheme but ensure all of the fonts/background colors are consistent.                                                                                                                                         |                                                                                                                                                                                             |
-| Word cloud was an eye sore                  |  Redo the word cloud and seek additional feedback. If it still doesn't fit well, I will scrap it and approach that section differently.                                                                                                         |                                                                                                                                                     |
-| Scrollmation was confusing                  |  Rework the scrollmation graph. I was trying to be creative, but the feedback I got was pretty clear that the area graph was not good. I am thinking the same style but with bar graphs and perhaps a subset of the diseases/conditions.        |                                           
+| Audience identified late                    | Identify the audience early in the slides. Add another sentence for the prologue.                                                                                                            |                                                                                                                                     |                                                                                        |
+| Color coding worked but needs to be consistent       |  Use the same color for the whole scheme just as the Netflix episode did maybe blue will be great.                                                                                                                                         |                                                                                                                                                                                             |
+| The call-to-action sections should be improved     | Consider adding more direct calls-to-action or clear takeaways that guide viewers on how to leverage the information in their job search.|                                                                                                                                                     |
+| The scrollmation of the slides is not engaged                  |  Explore alternatives like single-page layouts or a more intuitive scroll path.     |                                           
