@@ -19,14 +19,14 @@ When designing visualizations about the employment outcomes of Heinz College gra
 <br>
 
 ## Interview script           
-|                                           Goal                          |                                                           Questions to Ask                                               |
-|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-|Ensure the content resonates with the target demographic                 | After reviewing the visualization, who do you think is the intended audience? Why do you believe so?                     |
-|Assess the logical progression and clarity of the main points            | What do you think about the organization and flow of the presentation? Did the sequence of topics make sense to you?     |
+|                                           Goal                          |                                                           Questions to Ask                                                                                      |
+|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Ensure the content resonates with the target demographic                 | After reviewing the visualization, who do you think is the intended audience? Why do you believe so?                                                            |
+|Assess the logical progression and clarity of the main points            | What do you think about the organization and flow of the presentation? Did the sequence of topics make sense to you?                                            |
 |Gather feedback on visual appeal and any potential design issues         | What are your thoughts on the color scheme and overall design of the visualization? Did any aspect of the design stand out to you, positively or negatively?    |
-|Evaluate the effectiveness of the story in engaging the audience        | Did the visualization inspire you to take any specific action or change your perspective on the topic?     |
-|Assess the logical progression and clarity of the main points            | What do you think about the organization and flow of the presentation? Did the sequence of topics make sense to you?     |
-|Assess the logical progression and clarity of the main points            | What do you think about the organization and flow of the presentation? Did the sequence of topics make sense to you?     |
+|Evaluate the effectiveness of the story in engaging the audience         | Did the visualization inspire you to take any specific action or change your perspective on the topic?                                                          |
+| Identify gaps and opportunities for enrichment                          | Is there anything you felt was missing from the visualization that could add more value or clarity?                                                             |
+
 
 
 
