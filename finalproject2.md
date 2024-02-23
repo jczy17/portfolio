@@ -36,13 +36,13 @@ When designing visualizations about the employment outcomes of Heinz College gra
 
 
 
-| Questions                                                                            | Interview 1                    | Interview 2                      | Interview 3                      |
+| Questions                                                                            | Interview 1  (around 25 years old)   | Interview 2   (mid-50s)    | Interview 3                      |
 |--------------------------------------------------------------------------------------|--------------------------------|----------------------------------|----------------------------------|
 |After reviewing the visualization, who do you think is the intended audience?         | It seems targeted at college students, given the focus on job prospects       |    Maybe young adults like you       | For students or schools, I suppose. It addresses our immediate concerns                 |
 |                                                                                      |                                |                                  |                                  |
-|What do you think about the organization and the flow?                         | The flow was good, starting with broad trends and narrowing down   | The flow is mostly clear, but some transitions in the middle were confusing.    |  Simplifying some sections could improve the flow. Not clusttering  |
+|What do you think about the organization and the flow?                         | The flow was good, starting with broad trends and narrowing down   | The flow is mostly clear, but some transitions in the middle were confusing.    |  Simplifying some sections could improve the flow. Not that cluttering  |
 |                                                                                      |                                |                                  |                                  |
-| How does the color scheme make you feel?                                             |  Yellow is sunny/warm          | Makes me want to go outside      | Some colors were inconsistent    |
+| How does the color scheme make you feel?                                             |  Yellow is sunny/warm          | I loved the colors! They’re fresh and make the content stand out.      | Some colors were inconsistent    |
 |                                                                                      |                                |                                  |                                  |
 | Did this make you reflect on how much time you spent outdoors?                       |  Doesn't go outside enough     | Yes, most jobs are inside        | made me want to hike!            |
 |                                                                                      |                                |                                  |                                  |
