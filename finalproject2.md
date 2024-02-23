@@ -43,13 +43,11 @@ When designing visualizations about the employment outcomes of Heinz College gra
 |                                                                                      |                                |                                  |                                  |
 |What do you think about the organization and the flow?                         | The flow was good, starting with broad trends and narrowing down   | The flow is mostly clear, but some transitions in the middle were confusing.    |  Simplifying some sections could improve the flow. Not that cluttering  |
 |                                                                                      |                                |                                  |                                  |
-| How does the color scheme make you feel?                                             |  Yellow is sunny/warm          | I loved the colors! They’re fresh and make the content stand out.      | Some colors were inconsistent    |
+| How does the color scheme make you feel?                                             |   The vibrant colors caught my attention and were appealling   | I loved the colors! They’re fresh and make the content stand out.      | Some colors were inconsistent    |
 |                                                                                      |                                |                                  |                                  |
 |Did this visualization inspire you to take any specific action or change your perspective on job seeking?|  Yes, it made me more aware of the industries I should be focusing on     |    Not really, I’m already quite proactive in my job search, but it was affirming.   | Absolutely! I realized I need to start utilizing our alumni network more effectively in my job search.  |
 |                                                                                      |                                |                                  |                                  |
-| Is there anything additional about the subject you would find beneficial to include? |  Word cloud was bad  and       |  Perhaps data on working inside  | Specific pictures of Pitt        |
-|                                                                                      |  scroll graph confusing        |                                  | early on. Was good at the end    |    
-
+| Is there anything additional about the subject you would find beneficial to include? |  Noe really like the scrolling method | Interactive elements for more details on job roles or industries would be beneficial  | Specified colors and the call-to-action     |
 
 
 # Identified changes for Part III
