@@ -4,6 +4,7 @@ Here's my final project page part II. Check it out!
 
 # Part II
 # Story Board
+I'd redesign the storyboard with my shorthand, so here I upload a hand-drawn storyboard for reference.
 
 <iframe title="Employment Levels by Industry" aria-label="Interactive line chart" id="datawrapper-chart-cAFxt" src="https://datawrapper.dwcdn.net/cAFxt/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="387" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
@@ -44,7 +45,7 @@ When designing visualizations about the employment outcomes of Heinz College gra
 |                                                                                      |                                |                                  |                                  |
 | How does the color scheme make you feel?                                             |  Yellow is sunny/warm          | I loved the colors! They’re fresh and make the content stand out.      | Some colors were inconsistent    |
 |                                                                                      |                                |                                  |                                  |
-| Did this make you reflect on how much time you spent outdoors?                       |  Doesn't go outside enough     | Yes, most jobs are inside        | made me want to hike!            |
+|Did this visualization inspire you to take any specific action or change your perspective on job seeking?|  Yes, it made me more aware of the industries I should be focusing on     |    Not really, I’m already quite proactive in my job search, but it was affirming.   | Absolutely! I realized I need to start utilizing our alumni network more effectively in my job search.  |
 |                                                                                      |                                |                                  |                                  |
 | Is there anything additional about the subject you would find beneficial to include? |  Word cloud was bad  and       |  Perhaps data on working inside  | Specific pictures of Pitt        |
 |                                                                                      |  scroll graph confusing        |                                  | early on. Was good at the end    |    
