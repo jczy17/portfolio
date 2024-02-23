@@ -38,9 +38,9 @@ When designing visualizations about the employment outcomes of Heinz College gra
 
 | Questions                                                                            | Interview 1                    | Interview 2                      | Interview 3                      |
 |--------------------------------------------------------------------------------------|--------------------------------|----------------------------------|----------------------------------|
-|After reviewing the visualization, who do you think is the intended audience?         | It seems targeted at college students, given the focus on job prospects       |                                  | Younger people                   |
+|After reviewing the visualization, who do you think is the intended audience?         | It seems targeted at college students, given the focus on job prospects       |    Maybe young adults like you       | For students or schools, I suppose. It addresses our immediate concerns                 |
 |                                                                                      |                                |                                  |                                  |
-|What do you think about the organization and the flow?                         | Broad to specific, good        | Yes                              | Use graph for outdoor health +   |
+|What do you think about the organization and the flow?                         | The flow was good, starting with broad trends and narrowing down   | The flow is mostly clear, but some transitions in the middle were confusing.    |  Simplifying some sections could improve the flow. Not clusttering  |
 |                                                                                      |                                |                                  |                                  |
 | How does the color scheme make you feel?                                             |  Yellow is sunny/warm          | Makes me want to go outside      | Some colors were inconsistent    |
 |                                                                                      |                                |                                  |                                  |
