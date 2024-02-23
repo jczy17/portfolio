@@ -18,7 +18,8 @@ When designing visualizations about the employment outcomes of Heinz College gra
 
 <br>
 
-## Interview script           
+## Interview script     
+
 |                                           Goal                          |                                                           Questions to Ask                                                                                      |
 |-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Ensure the content resonates with the target demographic                 | After reviewing the visualization, who do you think is the intended audience? Why do you believe so?                                                            |
