@@ -3,6 +3,7 @@
 Here's my final project page part II. Check it out!
 
 # Part II
+# Story Board
 
 <iframe title="Employment Levels by Industry" aria-label="Interactive line chart" id="datawrapper-chart-cAFxt" src="https://datawrapper.dwcdn.net/cAFxt/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="387" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
@@ -13,33 +14,17 @@ Here's my final project page part II. Check it out!
 # User research 
 
 ## Target audience
-At first, my audience was really broad... It was initially just Americans, particularly those health-conscious and even those who want to be.<br>
-However, as the story progressed and I got feedback on Part I, I narrowed down the audience mostly to young people in Pittsburgh. This way I can incorporate Pittsburgh specific things
-that the younger population cares about and still tie it back to a more general issue that is faced worldwide (Vitamin D deficiency). It also helped that while Pittsburgh lacks sunshine, 
-there is an abundance of stuff to outdoors here and there was nice data on that. <br>
-So the audience is young people in Pittsburgh. <br>
+When designing visualizations about the employment outcomes of Heinz College graduates, I initially targeted three different types of groups: current students, alumni, and the college administration. But later on, I change my aspect to focus only on current students. Through this project, I may at least guide career planning for myself and highlight the importance of leveraging college resources for professional development. We can show which industries are currently absorbing graduates and the types of roles they are filling as well as highlighting the skills and competencies most sought after by employers. This can help students align their coursework and internships with market demands. In addition, it is known that the network opportunities are valuable, the project can showcase to students the role of alumni networks and mentorship programs in aiding job searches, suggesting ways to engage with these resources effectively.
+
+<br>
 
 ## Interview script
-Goals: <br>
-I intended to do a few things: <br>
-1) Check if the story is actually invoking concern/making the audience actually want to get outside and do things<br>
-2) Get feedback on how the colors worked... I am design-challenged and often I find that when I think something looks okay, others may find it to be terrible.<br>
-3) Ensure the audience I intended to hit (Young adults in Pittsburgh) were actually hit
-4) Get feedback on the general flow of the presentation and the ordering of the main points. I changed the ordering myself a few times while making the Wireframe.
-<br>
-<br>
-The questions I asked:<br>
+| Goal                                                    | Questions to Ask |
+|------                                                   |------------------|
+|Ensure the content resonates with the target demographic |After reviewing the visualization, who do you think is the intended audience? Why do you believe so? |
+|      |                  |
+|      |                  |
 
-1) Who do you think the audience is?  This question aligns with Goal Number 3. <br>
-
-2) Does the ordering of the presentation make sense to you? This question aligns with Goal Number 4. <br>
-
-3) How does the color scheme make you feel? This question aligns with Goal Number 2. <br>
-
-4) Did this make you reflect on how much time you spent outdoors? This question aligns with Goal Number 1. <br>
-
-5) Is there anything additional about the subject you would find beneficial to include? (For example, I considered including Vitamin D levels around the world and for more demographics but the data was a nightmare) 
-This question aligns with all the questions, primarily 3 and 4. <br>
 
 
 
