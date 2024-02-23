@@ -33,17 +33,14 @@ When designing visualizations about the employment outcomes of Heinz College gra
 
 ## Interview findings
 
-The responses to my questions were pretty consistent. All of my interviewees said something along the lines of them acknowledging they need to go outside more. <br>
-I also realized the presentation doesn't narrow down the audience until later on in the presentation, but I don't think that's necessarily a bad thing. However, using <br>
-a picture of Pittsburgh early on might be beneficial for the flow. I was also pretty disappointed to hear my wordcloud wasn't well received... I am going to try to rework it <br>
-and see if it a different design works better. Additionally, one of my peers told me to hyperlink the flourish plots instead of images for clarity.. which I definitely have to do.
 
 
-| Questions                                                                            | Interview 1 (briefly describe) | Interview 2                      | Interview 3                      |
+
+| Questions                                                                            | Interview 1                    | Interview 2                      | Interview 3                      |
 |--------------------------------------------------------------------------------------|--------------------------------|----------------------------------|----------------------------------|
-| Who do you think the audience is?                                                    |                                |                                  | Younger people                   |
+|After reviewing the visualization, who do you think is the intended audience?         | It seems targeted at college students, given the focus on job prospects       |                                  | Younger people                   |
 |                                                                                      |                                |                                  |                                  |
-| Does the ordering of the presentation make sense to you?                             | Broad to specific, good        | Yes                              | Use graph for outdoor health +   |
+|What do you think about the organization and the flow?                         | Broad to specific, good        | Yes                              | Use graph for outdoor health +   |
 |                                                                                      |                                |                                  |                                  |
 | How does the color scheme make you feel?                                             |  Yellow is sunny/warm          | Makes me want to go outside      | Some colors were inconsistent    |
 |                                                                                      |                                |                                  |                                  |
