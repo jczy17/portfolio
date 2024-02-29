@@ -2,6 +2,8 @@
 
 Here's my final project page part I. Check it out!
 
+[Check out my final project part II!](finalproject2.md) | [Check out my final project part III!](finalproject3.md) | [Take me back to the home page!](README.md)
+
 # Part I
 
 Outline
