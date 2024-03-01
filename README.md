@@ -10,10 +10,7 @@ All the things for certain! I'm trying to learn more about data visualization to
 # Portfolio
 Here is where all my work is displayed and you can scan through them. As my skills improve and new assignments are completed, I will regularly update the following projects.
 
-# Data visualization critiques
-[Check out my data visualization project!](dataviz1.md)
-
-# Data visualization workshops
+# Data visualization critiques and workshops
 [Assignment: Visualizing government debt using Tableau](dataviz2.md)
 
 [Assignment 3 & 4: Critique by Design with Tableau (MakeoverMonday)](dataviz3.md)
