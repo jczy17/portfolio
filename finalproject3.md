@@ -14,6 +14,11 @@ The graduate students of Heinz College are the direct beneficiaries of the repor
 ## Changes from Part II
 Following the completion of Part II, and based on feedback from user research and instructors, I assessed that the overall flow of my data story was coherent, yet the primary area requiring enhancement was the visualization content. A deeper analysis of the target audience's needs and preferences led me to recognize the necessity of adjustments in the visualization design to augment the story's appeal and readability. Notably, I opted to remove the section on industry transformation from page six of the original draft, choosing instead to concentrate more specifically on changes within the AI industry. Furthermore, I eliminated the initially designed word cloud of company names, as it appeared somewhat distracting. I transformed the pie chart depicting job distribution into a donut chart, with an emphasis on the data-related segment to make it more prominent. For the entire project, I chose visually appealing blue as the consistent main color coding, complemented appropriately with gray to ensure my core content stands out. When creating a title, I want to make it statement that addresses the main takeaway of the visualization.
 
+## Final Thoughts
+As this data storytelling project comes to a close, I've come to deeply appreciate that data storytelling transcends the mere presentation of numbers and charts; it's fundamentally about connecting those data points through stories that center around our audience. The process of deeply understanding our target audience and actively responding to their feedback has taught me how to communicate complex information more effectively, making it not only comprehensible but also engaging. This journey has honed my visualization design skills and enhanced my strategic thinking, enabling me to better assess and respond to audience needs and reactions.
+
+Looking to the future, I am excited to apply these valuable experiences to a broader range of projects, not limited to data storytelling or analytics. 
+
 ## The Final Data Story Project
 [Final Data Story on Shorthand](https://carnegiemellon.shorthandstories.com/vistas-ventures/index.html)
 
