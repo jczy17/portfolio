@@ -5,7 +5,15 @@ Here's my final project page part III. Check it out!
 [Check out my final project part I!](finalproject1.md) | [Check out my final project part II!](finalproject2.md) | [Take me back to the home page!](README.md)
 
 # Part III
-## Story Project
+# Writeup
+## Identified audience
+In the process of defining the target audience for the final data story, I focused primarily on the graduate students of Heinz College, considering the nature and objectives of the employment report. Furthermore, through discussions with the teaching assistant, I realized that Carnegie Mellon University and Heinz College Career Services might also be interested in this report, as both are dedicated to supporting students in their career planning and development. 
+
+The graduate students of Heinz College are the direct beneficiaries of the report, as they are at a critical juncture in terms of employment or career path changes. The data story aims to provide them with in-depth industry analysis and employment trends, assisting them in making more informed career decisions. Interviews conducted with Heinz students revealed their need for employment market information, especially specific data regarding AI and related fields. The current interest in the booming AI industry is likely to garner significant attention from this group.
+
+
+
+## The Final Data Story Project
 [Final Data Story on Shorthand](https://carnegiemellon.shorthandstories.com/vistas-ventures/index.html)
 
 ## References & Data Source:
