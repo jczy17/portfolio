@@ -20,6 +20,6 @@ AI development: https://ourworldindata.org/artificial-intelligence
 
 AI index report: https://drive.google.com/drive/folders/1ma9WZJzKreS8f2It1rMy_KkkbX6XwDOK
 
-“Data Page: Annual global corporate investment in artificial intelligence, by type”, part of the following publication: Charlie Giattino, Edouard Mathieu, Veronika Samborska and Max Roser (2023) - “Artificial Intelligence”. Data adapted from NetBase Quid (2022) via AI Index (2023). Retrieved from https://ourworldindata.org/grapher/corporate-investment-in-artificial-intelligence-by-type [online resource]Employment report: Heinz College official website: www.heinz.cmu.edu/
+“Data Page: Annual global corporate investment in artificial intelligence, by type”, part of the following publication: Charlie Giattino, Edouard Mathieu, Veronika Samborska and Max Roser (2023) - “Artificial Intelligence”. Data adapted from NetBase Quid (2022) via AI Index (2023). Retrieved from https://ourworldindata.org/grapher/corporate-investment-in-artificial-intelligence-by-type [online resource]
 
 Employment data: https://www.bls.gov/charts/employment-situation/
