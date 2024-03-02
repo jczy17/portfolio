@@ -11,7 +11,8 @@ In the process of defining the target audience for the final data story, I focus
 
 The graduate students of Heinz College are the direct beneficiaries of the report, as they are at a critical juncture in terms of employment or career path changes. The data story aims to provide them with in-depth industry analysis and employment trends, assisting them in making more informed career decisions. Interviews conducted with Heinz students revealed their need for employment market information, especially specific data regarding AI and related fields. The current interest in the booming AI industry is likely to garner significant attention from this group.
 
-
+## Changes from Part II
+Following the completion of Part II, and based on feedback from user research and instructors, I assessed that the overall flow of my data story was coherent, yet the primary area requiring enhancement was the visualization content. A deeper analysis of the target audience's needs and preferences led me to recognize the necessity of adjustments in the visualization design to augment the story's appeal and readability. Notably, I opted to remove the section on industry transformation from page six of the original draft, choosing instead to concentrate more specifically on changes within the AI industry. Furthermore, I eliminated the initially designed word cloud of company names, as it appeared somewhat distracting. I transformed the pie chart depicting job distribution into a donut chart, with an emphasis on the data-related segment to make it more prominent. For the entire project, I chose visually appealing blue as the consistent main color coding, complemented appropriately with gray to ensure my core content stands out. When creating a title, I want to make it statement that addresses the main takeaway of the visualization.
 
 ## The Final Data Story Project
 [Final Data Story on Shorthand](https://carnegiemellon.shorthandstories.com/vistas-ventures/index.html)
